@@ -157,9 +157,6 @@ Example result:
   1 | stage 1 | t    | 2026-08-01 13:14:39     | 2026-08-01 13:15:19
 ```
 
-Database screenshot:
-
-![PostgreSQL Database](database-screenshot.png)
 
 ---
 
@@ -171,7 +168,7 @@ Database screenshot:
 ├── db.py
 ├── models.py
 ├── Dockerfile
-├── docker-compose.yml
+├── compose.yml
 ├── requirements.txt
 ├── .env.example
 └── README.md
